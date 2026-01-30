@@ -1,0 +1,4 @@
+pyrogram
+tgcrypto
+yt-dlp
+ntgcalls==1.0.3
